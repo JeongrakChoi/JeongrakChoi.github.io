@@ -20,10 +20,12 @@ theme_settings :
         end : 2021~
         experience : 아이뱅크, 품질관리사업부
     skills : 
-      - skill : HTML5 & CSS
+      - skill : HTML5
+        value : 95  # Percent value
+      - skill : CSS3(SASS)
         value : 90  # Percent value
       - skill : Javascript & jQuery
-        value : 80  # Percent value
+        value : 85  # Percent value
       - skill : Photoshop
         value : 80  # Percent value
       - skill : Illustrator
