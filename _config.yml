@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/profile.jpg
     username : Jeongrak Choi
-    description : 웹 퍼블리셔 최정락입니다.<br>웹 표준과 웹 접근성을 준수하며,<br>의미론적이면서도 컴포넌트 단위의 구조적인 코드를 생산하는 것을 지향합니다.
+    description : 웹 퍼블리셔 최정락입니다.<br>웹 표준과 웹 접근성을 준수하며, 의미론적이면서도 컴포넌트 단위의 구조적인 코드를 생산하는 것을 지향합니다.
     experience :
       - start : 2013-12
         end : 2015-04
