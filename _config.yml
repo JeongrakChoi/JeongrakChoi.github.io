@@ -13,9 +13,12 @@ theme_settings :
     username : Jeongrak Choi
     description : 안녕하세요
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2013-12-10
+        end : 2015-04-05
+        experience : 포뎁스, 부설관리연구소(웹퍼블리싱)
+      - start : 2015-06-01
+        end : 2021~
+        experience : 아이뱅크, 품질관리사업부(웹퍼블리싱)
     skills : 
       - skill : HTML5 & CSS
         value : 85  # Percent value
