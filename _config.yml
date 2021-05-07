@@ -13,19 +13,25 @@ theme_settings :
     username : Jeongrak Choi
     description : 안녕하세요
     experience :
-      - start : 2013-12-10
-        end : 2015-04-05
-        experience : 포뎁스, 부설관리연구소(웹퍼블리싱)
-      - start : 2015-06-01
+      - start : 2013-12
+        end : 2015-04
+        experience : 포뎁스, 부설관리연구소
+      - start : 2015-06
         end : 2021~
-        experience : 아이뱅크, 품질관리사업부(웹퍼블리싱)
+        experience : 아이뱅크, 품질관리사업부
     skills : 
       - skill : HTML5 & CSS
-        value : 85  # Percent value
+        value : 90  # Percent value
+      - skill : Javascript & jQuery
+        value : 80  # Percent value
+      - skill : Photoshop
+        value : 80  # Percent value
+      - skill : Illustrator
+        value : 70  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  jrchoi0123@naver.com
     linkedin:  # Full URL 
     github: jeongrakchoi
     gitlab: 
@@ -34,7 +40,7 @@ theme_settings :
     twitter:
     youtube:
     facebook:
-    instagram:
+    instagram: jrchoi0123
 
   # Disqus
   disqus_shortname :
