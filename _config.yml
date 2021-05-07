@@ -4,7 +4,7 @@ url : "https://jeongrakchoi.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Blog
+  title : Jeongrak's Devlog
   favicon : assets/favicon.ico
 
   # Profile Settings
