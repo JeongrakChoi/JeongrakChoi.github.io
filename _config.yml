@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/profile.jpg
     username : Jeongrak Choi
     description : 안녕하세요
     experience :
