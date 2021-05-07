@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/profile.jpg
     username : Jeongrak Choi
-    description : 안녕하세요
+    description : 웹 퍼블리셔 최정락입니다.<br>의미론적이고 구조적인 코드를 생산하는 것을 지향합니다.
     experience :
       - start : 2013-12
         end : 2015-04
