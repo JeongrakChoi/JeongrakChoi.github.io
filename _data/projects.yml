@@ -68,6 +68,20 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "krei01.jpg" # path: assets/project/
+    date : 2014.01 - 2014.05
+    title : KREI 농업관측센터
+    summary : 퍼블리싱(Web + Mobile)
+    description :  선임 퍼블리셔 1명과 프론트 및 관리자 시스템 페이지 퍼블리싱
+    contents :
+        - title : Mobile
+          image : krei02.jpg
+
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "miller01.jpg" # path: assets/project/
     date : 2014.01 - 2014.04
     title : 사브 밀러 CRM 시스템
