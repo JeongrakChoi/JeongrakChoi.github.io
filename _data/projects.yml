@@ -31,11 +31,34 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "conex01".jpg" # path: assets/project/
+    date : 2014.05 - 0414.08
+    title : CONEX 방송통신정보시스템
+    summary : 퍼블리싱(Web + Mobile)
+    description :  사이트 전체 리뉴얼 퍼블리싱 작업
+    contents :
+        - title : Mobile
+          image : conex02.jpg
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : "unli01.jpg" # path: assets/project/
+    date : 2014.02 - 0414.05
+    title : 인터넷 윤리문화
+    summary : 퍼블리싱(Web)
+    description :  부분 리뉴얼 및 유지보수
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "miller01.jpg" # path: assets/project/
-    date : 2014.01 - 0414.04
+    date : 2014.01 - 2014.04
     title : 사브 밀러 CRM 시스템
     summary : 퍼블리싱(Web + Mobile)
-    description :  맥주 브랜드 사브 밀러에서 사용하는 CRM 시스템
+    description :  데이터들을 각종 차트 및 통계 디자인으로 연동한 시스템 사이트의 퍼블리싱
     contents :
         - title : iScroll 플러그인 도입
           image : miller02.jpg
