@@ -31,6 +31,29 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "4depth01.jpg" # path: assets/project/
+    date : 2015.06 - 2015.09
+    title : (주)포뎁스
+    summary : 퍼블리싱(Responsive Web)
+    description : 자사 홈페이지 반응형 제작, 가로 UI, isotope.js 플러그인 사용
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : "privacy01.jpg" # path: assets/project/
+    date : 2015.04 - 2015.06
+    title : 개인정보보호 종합포털
+    summary : 퍼블리싱(Web + Mobile)
+    description : IE7~11, 사파리, 크롬, 오페라, 파이어폭스 크로스 브라우징
+    contents :
+        - title : Mobile
+          image : privacy02.jpg
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "krnic01.jpg" # path: assets/project/
     date : 2015.02 - 2015.03
     title : KRNIC 인터넷 주소자원
