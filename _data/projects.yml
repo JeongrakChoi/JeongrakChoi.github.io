@@ -31,6 +31,26 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "krnic01.jpg" # path: assets/project/
+    date : 2015.02 - 2015.03
+    title : KRNIC 인터넷 주소자원
+    summary : 퍼블리싱(Web)
+    description : IE7~11, 사파리, 크롬, 오페라, 파이어폭스 크로스 브라우징
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : "cknat01.jpg" # path: assets/project/
+    date : 2014.12 - 2015.02
+    title : 한·중 연구소 센터
+    summary : 퍼블리싱(Web)
+    description : IE7~11, 사파리, 크롬, 오페라, 파이어폭스 크로스 브라우징
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "seoul01.jpg" # path: assets/project/
     date : 2014.08 - 2014.12
     title : 서울시 지식공유시스템
@@ -76,7 +96,6 @@
     contents :
         - title : Mobile
           image : krei02.jpg
-
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
