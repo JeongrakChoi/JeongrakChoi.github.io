@@ -62,7 +62,7 @@
     date : 2014.02 - 0414.05
     title : 인터넷 윤리문화
     summary : 퍼블리싱(Web)
-    description :  부분 리뉴얼 및 유지보수
+    description :  <li>부분 리뉴얼 및 유지보수</li>
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -76,4 +76,4 @@
     contents :
         - title : Web
           image : miller02.jpg
-          description : iScroll 플러그인 도입
+          description : <li>iScroll 플러그인 도입</li>
