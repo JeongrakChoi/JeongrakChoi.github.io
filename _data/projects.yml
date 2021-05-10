@@ -31,8 +31,8 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
-    description :  
+    image : "miller01.jpg" # path: assets/project/
+    date : 2014.01 - 0414.04
+    title : 사브 밀러 CRM 시스템
+    summary : Publishing(Web + Mobile)
+    description :  맥주 브랜드 사브 밀러에서 사용하는 CRM 시스템 (iscroll)
