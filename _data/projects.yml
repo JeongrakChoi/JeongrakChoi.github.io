@@ -31,6 +31,19 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "kobiz01.jpg" # path: assets/project/
+    date : 2015.10 - 2015.12
+    title : KoBiz
+    summary : 퍼블리싱(Web + Mobile)
+    description : IE7~11, 사파리, 크롬, 오페라, 파이어폭스 크로스 브라우징
+     contents :
+        - title : Mobile
+          image : kobiz02.jpg
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "4depth01.jpg" # path: assets/project/
     date : 2015.06 - 2015.09
     title : (주)포뎁스
