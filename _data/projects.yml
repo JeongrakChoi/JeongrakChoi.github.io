@@ -32,7 +32,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : "seoul01.jpg" # path: assets/project/
-    date : 2014.05 - 0414.08
+    date : 2014.08 - 2014.12
     title : 서울시 지식공유시스템
     summary : 퍼블리싱(Web)
     description :  유지보수 및 신규 페이지 제작
@@ -46,7 +46,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : "conex01.jpg" # path: assets/project/
-    date : 2014.05 - 0414.08
+    date : 2014.05 - 2014.08
     title : CONEX 방송통신정보시스템
     summary : 퍼블리싱(Web + Mobile)
     description :  사이트 전체 리뉴얼 퍼블리싱
@@ -59,7 +59,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : "unli01.jpg" # path: assets/project/
-    date : 2014.02 - 0414.05
+    date : 2014.02 - 2014.05
     title : 인터넷 윤리문화
     summary : 퍼블리싱(Web)
     description :  부분 리뉴얼 및 유지보수
