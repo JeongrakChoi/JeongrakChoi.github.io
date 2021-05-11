@@ -45,7 +45,7 @@ theme_settings :
     instagram: jrchoi0123
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : jeongrakchoi-github-io
 
 # Pagination
 paginate: 10
