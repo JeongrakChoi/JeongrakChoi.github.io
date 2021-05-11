@@ -1,13 +1,13 @@
 # JeongrakChoi.github.io
 
 개인 블로그 겸 포트폴리오 사이트입니다.
-<br>
+<br><br>
+
 Welcome to my github.
 <br>
 This is my portfolio and blog site.
-<br>
-Customize Grape-Theme and use it for free.
-<br>
+<br><br>
+
 <a href="https://jeongrakchoi.github.io/" target="_blank">https://jeongrakchoi.github.io/</a>
 
 
