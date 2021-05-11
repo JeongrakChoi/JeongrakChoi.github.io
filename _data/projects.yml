@@ -31,6 +31,16 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "nike01".png" # path: assets/project/
+    date : 2015.12 - 2016.02
+    title : 나이키 코리아
+    summary : 퍼블리싱(Web + Mobile)
+    description : 부분 리뉴얼 및 운영
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "tabikatsu01.jpg" # path: assets/project/
     date : 2015.12 - 2016.01
     title : tabikatsu
