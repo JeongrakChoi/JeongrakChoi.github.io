@@ -12,7 +12,7 @@ This is my portfolio and blog site.
 
 ## Theme by
 
-[Grape-Theme]](https://github.com/naye0ng/Grape-Theme)
+[Grape-Theme](https://github.com/naye0ng/Grape-Theme)
 
 ## License
 
