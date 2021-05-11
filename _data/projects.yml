@@ -31,7 +31,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
-    image : "mediheal01.png" # path: assets/project/
+    image : "mediheal01.jpg" # path: assets/project/
     date : 2019.01 - 2019.08
     title : 메디힐
     summary : 퍼블리싱(Responsive Web)
@@ -41,7 +41,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
-    image : "genesis01.png" # path: assets/project/
+    image : "genesis01.jpg" # path: assets/project/
     date : 2018.06 - 2018.12
     title : 제네시스
     summary : 퍼블리싱(Responsive Web)
@@ -61,7 +61,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
-    image : "worldwide01.png" # path: assets/project/
+    image : "worldwide01.jpg" # path: assets/project/
     date : 2017.02 - 2017.12
     title : 현대 월드와이드
     summary : 퍼블리싱(Responsive Web)
@@ -71,7 +71,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
-    image : "jaju01.png" # path: assets/project/
+    image : "jaju01.jpg" # path: assets/project/
     date : 2016.02 - 2017.01
     title : 신세계 JAJU
     summary : 퍼블리싱(Web + Mobile)
@@ -81,7 +81,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
-    image : "nike01.png" # path: assets/project/
+    image : "nike01.jpg" # path: assets/project/
     date : 2015.12 - 2016.02
     title : 나이키 코리아
     summary : 퍼블리싱(Web + Mobile)
