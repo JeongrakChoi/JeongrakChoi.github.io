@@ -31,13 +31,23 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "tabikatsu01.jpg" # path: assets/project/
+    date : 2015.12 - 2016.01
+    title : tabikatsu
+    summary : 퍼블리싱(Responsive Web)
+    description : 일본 스키장 예약 시스템 사이트 제작
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "kia01.jpg" # path: assets/project/
     date : 2015.11 - 2015.12
     title : 기아 뉴 스포티지 위대한 도전
     summary : 퍼블리싱(Web)
     description : 기아 뉴 스포티지 위대한 도전 이벤트 (jQuery 애니메이션 작업)
     contents :
-      - title : jQuery Animation
+      - title : 신차 발매 이벤트 페이지
         image : kia02.jpg
         description : <li>jQuery UI Easing 활용</li>
 
