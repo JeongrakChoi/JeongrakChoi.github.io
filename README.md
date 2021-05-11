@@ -1,14 +1,14 @@
-# Grape-Theme
+# JeongrakChoi.github.io
 
-![home](./assets/img/home.png)
-
-블로그뿐만 아니라 포트폴리오 페이지도 지원하는 Grape-Theme를 자유롭게 사용하세요.
-
-Welcome to Grape Theme!  It is good for a portfolio as well as a blog.
+개인 블로그 겸 포트폴리오 사이트입니다.
+<br>
+Welcome to my github.
+<br>
+This is my portfolio and blog site.
 <br>
 Customize Grape-Theme and use it for free.
-
-[Demo](https://grape-theme.netlify.com)
+<br>
+<a href="https://jeongrakchoi.github.io/" target="_blank">https://jeongrakchoi.github.io/</a>
 
 
 
