@@ -31,6 +31,16 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
+    image : "mediheal01.png" # path: assets/project/
+    date : 2019.01 - 2019.08
+    title : 메디힐
+    summary : 퍼블리싱(Responsive Web)
+    description : 반응형 웹 브랜드 사이트 제작
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : # Full URL
     image : "genesis01.png" # path: assets/project/
     date : 2018.06 - 2018.12
     title : 제네시스
