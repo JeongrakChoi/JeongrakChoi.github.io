@@ -31,6 +31,19 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
+    image : "understage01.jpg" # path: assets/project/
+    date : 2015.06 - 2015.10
+    title : 현대카드 언더스테이지
+    summary : 퍼블리싱(Web + Mobile)
+    description : 부분 리뉴얼 및 유지보수
+    contents :
+        - title : Mobile
+          image : understage02.jpg
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
     image : "fta01.jpg" # path: assets/project/
     date : 2015.05 - 2015.06
     title : FTA 농업지원센터
