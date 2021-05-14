@@ -2,7 +2,7 @@
 layout: post
 title: 익스플로러(IE) transform + overflow 이슈
 subtitle : IE에서 overflow:hidden이 적용되지 않는 문제
-tags: [CSS]]
+tags: [CSS]
 author: 최정락
 comments : true
 ---
