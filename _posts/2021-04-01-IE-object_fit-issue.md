@@ -17,7 +17,7 @@ comments : true
 <br>
 
 아래와 같은 방법으로 적용하면 그나마 깔끔하게 해결할 수 있다.
-<br>
+<br><br>
 
 {% highlight javascript %}
 function setDirection(e) {
@@ -31,14 +31,14 @@ function setDirection(e) {
 
 먼저 이미지의 비율에 따라 class를 지정해주는 스크립트를 작성한다.
 가로형과 세로형에 각기 다른 class를 줄 것이다.
-<br>
+<br><br>
 
 {% highlight html %}
 <img src="img.jpg" alt="" onload="setDirection(this)" alt="">
 {% endhighlight %}
 
 이미지 크기는 onload 이전에 알 수 있으므로 타이밍을 앞당긴다.
-<br>
+<br><br>
 
 {% highlight css %}
 img {
@@ -56,4 +56,3 @@ img.horizontal {
 {% endhighlight %}
 
 부모 컨테이너에는 overflow:hidden으로 잘라준다.
-<br>
