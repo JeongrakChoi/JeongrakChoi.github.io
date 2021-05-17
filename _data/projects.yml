@@ -91,7 +91,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/JeongrakChoi/KIA_Animation_Event # Full URL
+    url : # Full URL
     image : "kia01.gif" # path: assets/project/
     date : 2015.11 - 2015.12
     title : 기아 뉴 스포티지 위대한 도전
