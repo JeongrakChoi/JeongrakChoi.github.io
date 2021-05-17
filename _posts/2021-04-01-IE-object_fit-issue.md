@@ -7,7 +7,9 @@ author: 최정락
 comments : true
 ---
 
-이미지나 비디오 태그에 사용되는 'object-fit' 속성은 IE, EDGE 브라우저에서 적용되지 않는다.  
+이미지나 비디오 태그에 사용되는 'object-fit' 속성은 IE, EDGE 브라우저에서 적용되지 않는다.
+<br>
+
 몇 가지 옵션이 있지만, 제일 많이 사용되는 cover 옵션의 대체 방법에 대해 기록한다.
 <br>
 
