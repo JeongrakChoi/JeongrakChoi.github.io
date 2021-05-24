@@ -17,6 +17,7 @@ comments : true
 요소가 뷰포트에 접근할 때, 표시를 해준다는 메커니즘은  
 lazyload.js와도 얼추 비슷해 보이지만, 해당 content-visibility 속성은  
 레이아웃을 구성하는 엘리먼트에 직접적으로. 보다 간편하게 적용할 수 있을 것으로 보인다.  
+<br>
 
 {% highlight css %}
 .contents{
@@ -25,6 +26,7 @@ lazyload.js와도 얼추 비슷해 보이지만, 해당 content-visibility 속�
 }
 {% endhighlight %}
 <br>
+
 몇 가지 속성이 있지만, 기본적으로 auto 값을 사용하며,  
 contain-intrinsic-size는 해당 스타일로 인해 높이 값이 0으로 비어져있는 엘리먼트에
 최소 높이 값을 지정해 준다.  
