@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 새로운 CSS 속성 content-visibility
+title: 렌더링 성능을 향상시키는 content-visibility 속성
 subtitle : 렌더링 성능을 향상시키는 새로운 CSS 속성
 tags: [Chrome, CSS, content-visibility]
 author: 최정락
