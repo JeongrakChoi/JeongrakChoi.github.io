@@ -43,4 +43,4 @@ contain-intrinsic-size 속성을 지정해 주지 않으면,
 페이지 속도 이슈를 CSS에서 개입할 수 있는 방식은 분명 새로운 방식인듯하다.  
 <br><br>
 
-출처 : (https://web.dev/content-visibility/){:target="_blank"}
+출처 : [https://web.dev/content-visibility/](https://web.dev/content-visibility/){:target="_blank"}
