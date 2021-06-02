@@ -19,7 +19,7 @@ theme_settings :
       - start : 2015-06
         end : ~
         experience : 아이뱅크, 품질관리사업부
-    skills : 
+    skills :
       - skill : HTML5
         value : 95  # Percent value
       - skill : CSS3(SASS)
@@ -34,14 +34,14 @@ theme_settings :
         value : 70  # Percent value
       - skill : Zeplin
         value : 90  # Percent value
-        
+
   # Icons
   icons :
     email:  jrchoi0123@naver.com
-    linkedin:  # Full URL 
+    linkedin:  # Full URL
     github: jeongrakchoi
-    gitlab: 
-    bitbucket: 
+    gitlab:
+    bitbucket:
     google_plus:
     twitter:
     youtube:
