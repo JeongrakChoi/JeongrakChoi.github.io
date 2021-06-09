@@ -15,10 +15,10 @@ theme_settings :
     experience :
       - start : 2013-12
         end : 2015-06
-        experience : 포뎁스, 부설연구소
+        experience : 포뎁스
       - start : 2015-06
         end : ~
-        experience : 아이뱅크, 품질관리사업부
+        experience : 아이뱅크
     skills :
       - skill : HTML5
         value : 95  # Percent value
@@ -32,8 +32,6 @@ theme_settings :
         value : 90  # Percent value
       - skill : Illustrator
         value : 70  # Percent value
-      - skill : Zeplin
-        value : 90  # Percent value
 
   # Icons
   icons :
