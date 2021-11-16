@@ -49,6 +49,7 @@
             color:#fff;
             border-radius: 50%;
             text-align: center;
+            cursor: pointer;
             p{
                 font-size: 0.95rem;
                 font-weight: 600;
@@ -101,7 +102,7 @@
                 .title{
                     position: relative;
                     margin: 10px auto;
-                    font-size: 1.05rem; 
+                    font-size: 1.05rem;
                     font-weight: 600;
                 }
                 .description{
@@ -114,4 +115,4 @@
             }
         }
     }
-}    
+}
