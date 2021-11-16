@@ -7,6 +7,9 @@ author: 최정락
 comments : true
 ---
 
+일시정지가 아닌, 재생 완료 시점 이벤트를 발생시키기 위함
+요청이 잦은 작업이라 기록해둠.
+
 ### Video
 {% highlight html %}
 <video id="player">
