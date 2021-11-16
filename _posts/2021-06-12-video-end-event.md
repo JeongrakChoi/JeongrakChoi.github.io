@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 비디오, 유튜브, 비메오 재생 완료 이벤트
-subtitle : Video, Youtube, Vimeo 재생 완료 이벤트 심기
+subtitle : Video, Youtube, Vimeo 재생 완료 이벤트 받기
 tags: [Video, Youtube, Vimeo, API]
 author: 최정락
 comments : true
 ---
 
-일시정지가 아닌, 재생 완료 시점 이벤트를 발생시키기 위함  
-요청이 잦은 작업이라 기록해둠
+영상 관련해 다양한 시점에 이벤트를 발생시킬 수 있으나  
+주로, 재생 완료 시점에 이벤트를 받기 위한 요청이 잦아 별도 기록해둠
 
 ### Video
 {% highlight html %}
@@ -71,6 +71,6 @@ var iframe = document.getElementById('player');
 var player = new Vimeo.Player(iframe);
 
 player.on('ended', function() {
-    alert('동영상 재생 종료!');
+    alert('재생 완료');
 });
 {% endhighlight %}
