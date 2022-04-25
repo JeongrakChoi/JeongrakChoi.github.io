@@ -23,10 +23,10 @@ URL은 현재 페이지의 주소로 임의 설정함
 
 ### Javascript
 {% highlight javascript %}
-var btnShare = document.getElementById("btnShare");
-btnShare.addEventListener("click", function(){
-    var shareTitle = "제목";
-    var shareText = "내용";
+var btnShare = document.getElementById('btnShare');
+btnShare.addEventListener('click', function(){
+    var shareTitle = '제목';
+    var shareText = '내용';
     var shareURL = window.document.location.href;
     
     if (navigator.share){
