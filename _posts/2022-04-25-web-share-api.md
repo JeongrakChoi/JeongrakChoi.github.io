@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Share API로 모바일 네이티브 공유 기능 구현하기
-subtitle : Web Share API를 활용해 네이티브 디바이스의 공유기능을 웹에서 사용
+subtitle : 모바일 웹에서 네이티브 디바이스의 공유기능 사용하기
 tags: [API, WebShare, Javascript]
 author: 최정락
 comments : true
