@@ -25,9 +25,9 @@ theme_settings :
       - skill : CSS3(SASS)
         value : 90  # Percent value
       - skill : Javascript & jQuery
-        value : 80  # Percent value
+        value : 85  # Percent value
       - skill : SEO
-        value : 80  # Percent value
+        value : 85  # Percent value
       - skill : Photoshop
         value : 90  # Percent value
       - skill : Illustrator
