@@ -2,6 +2,16 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : # Full URL
+    image : "inn_tw01.png" # path: assets/project/
+    date : 2022.01 - 2022.04
+    title : 이니스프리 대만 쇼핑몰
+    summary : 퍼블리싱(Web + Mobile)
+    description : 부분 리뉴얼 및 운영
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : # Full URL
     image : "newssquare01.jpg" # path: assets/project/
     date : 2021.02 - 2021.04
     title : 뉴스스퀘어
