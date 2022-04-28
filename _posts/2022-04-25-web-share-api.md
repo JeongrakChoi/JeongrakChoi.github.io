@@ -10,7 +10,7 @@ comments : true
 ![transform+overflow issue]({{ site.baseurl }}/assets/img/post_2022-04-25_img01.png)
 
 모바일 웹에서 네이티브 공유 기능에 대한 요청이 와서 정리해둠  
-URL은 현재 페이지의 주소로 임의 설정 (공란으로 둬도 된다 함)  
+URL은 현재 페이지의 주소로 임의 설정 (공란으로 둬도 현재 주소로 설정된다 함)  
 HTTPS 환경에서만 사용 가능
 
 
