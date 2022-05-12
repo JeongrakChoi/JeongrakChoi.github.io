@@ -6,7 +6,7 @@
         }
     }
     #header-nav, #header-content, .bg{
-        display:none;
+        /* display:none; */
         @media (max-width: 991px) {
            display: block;
         }
