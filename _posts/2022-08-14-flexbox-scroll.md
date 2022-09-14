@@ -14,7 +14,7 @@ comments : true
 {% endhighlight %}
 
 start 또는 end 기준 정렬 시에는 문제가 없으나, 
-center 정렬한 Flexbox에 가변 크기에 따른 스크롤 처리를 할 경우  
+center 정렬한 Flexbox에 가변 크기에 따른 스크롤 처리를 할 경우 
 위와 같이 상하단(또는 좌우)가 잘리는 이슈가 있음. <br><br><br>
 
 {% highlight html %}
