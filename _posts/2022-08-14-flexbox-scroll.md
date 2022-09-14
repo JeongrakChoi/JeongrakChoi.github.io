@@ -13,9 +13,9 @@ comments : true
 .flexBox{display:flex; justify-content:center; align-items:center; height:80px; overflow-y:auto;}
 {% endhighlight %}
 
-start 또는 end 기준 정렬 시에는 문제가 없으나,
+start 또는 end 기준 정렬 시에는 문제가 없으나, 
 center 정렬한 Flexbox에 가변 크기에 따른 스크롤 처리를 할 경우  
-위와 같이 상하단(또는 좌우)가 잘리는 이슈가 있음. <br>
+위와 같이 상하단(또는 좌우)가 잘리는 이슈가 있음. <br><br><br>
 
 {% highlight html %}
 <div class="flexBox">
@@ -32,5 +32,5 @@ center 정렬한 Flexbox에 가변 크기에 따른 스크롤 처리를 할 경�
 
 ![transform+overflow issue]({{ site.baseurl }}/assets/img/post_2022-08-14_img02.jpg)
 
-위와 같이 자식 엘리먼트를 하나 더 생성한 후,
+위와 같이 자식 엘리먼트를 하나 더 생성한 후, 
 스크롤 옵션을 주고 부모 요소에 flex-direction:column 을 준다.
