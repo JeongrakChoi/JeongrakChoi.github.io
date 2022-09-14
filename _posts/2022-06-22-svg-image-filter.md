@@ -11,6 +11,10 @@ comments : true
 <img class="icon" src="icon.svg" alt="icon">
 {% endhighlight %}
 
+{% highlight css %}
+img{invert(16%) sepia(89%) saturate(6054%) hue-rotate(358deg) brightness(97%) contrast(113%);}
+{% endhighlight %}
+
 &lt;img&gt; 태그를 사용해 아이콘을 표현하는 경우 filter 속성으로 색상 활용
 
 기본적으로 svg 형태의 이미지 프로토 타입을  
