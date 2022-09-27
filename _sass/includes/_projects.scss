@@ -27,17 +27,22 @@
       // column-count: 2;
       // -webkit-column-count: 2;
       // -moz-column-count: 2;
+      grid-template-columns: repeat(2, 1fr);
     }
     @media (max-width: 576px) {
       // column-count: 1;
       // -webkit-column-count: 1;
       // -moz-column-count: 1;
+      display: block;
     }
     .card-wrapper {
       // padding: 8px 10px;
       // margin: 10px auto;
       display: inline-block;
       width: 100%;
+      @media (max-width: 576px) {
+        margin-bottom: var(--gap);
+      }
       .card {
         -webkit-transition-duration: 0.8s;
         -moz-transition-duration: 0.8s;
