@@ -53,3 +53,27 @@
 
 <!-- modal -->
 <script type="text/javascript" src="{{ site.url }}/assets/js/modal.js"></script>
+<script type="text/javascript">
+
+function masonryLayout() {
+    const masonryContainerStyle = getComputedStyle(
+        document.querySelector(".card-container")
+    );
+    const columnGap = parseInt(
+        masonryContainerStyle.getPropertyValue("column-gap")
+    );
+    const autoRows = parseInt(
+        masonryContainerStyle.getPropertyValue("grid-auto-rows")
+    );
+
+    document.querySelectorAll(".card-wrapper").forEach((elt) => {
+        elt.style.gridRowEnd = `span ${Math.ceil(
+            elt.querySelector(".card").scrollHeight / autoRows +
+                columnGap / autoRows
+        )}`;
+    });
+}
+
+masonryLayout();
+window.addEventListener("resize", masonryLayout);
+</script>
