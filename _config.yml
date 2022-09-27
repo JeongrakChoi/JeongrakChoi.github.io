@@ -23,17 +23,13 @@ theme_settings :
         end : 
         experience : (주)한글과컴퓨터
     skills :
-      - skill : HTML5
+      - skill : HTML5 & CSS3(SASS)
         value : 95  # Percent value
-      - skill : CSS3(SASS)
-        value : 90  # Percent value
       - skill : Javascript & jQuery
         value : 85  # Percent value
       - skill : SEO
         value : 85  # Percent value
-      - skill : Photoshop
-        value : 90  # Percent value
-      - skill : Illustrator
+      - skill : React
         value : 70  # Percent value
 
   # Icons
