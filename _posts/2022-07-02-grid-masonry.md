@@ -31,8 +31,8 @@ comments : true
 이중, 네번째 방법에 대해 기록 
 <br>
 요소의 position을 static으로 가져갈 수 있고,  
-자식 요소의 높이만 감지해 레이아웃을 만듬으로 브라우저 리사이징 시  
-기존 방식보다 메모리 누수 최소화
+자식 요소의 높이만 감지해 레이아웃을 만듬으로  
+기존 방식보다, 브라우저 리사이징 시 발생하는 메모리 누수를 최소화  
 
 {% highlight html %}
 <div class="masonry-container">
