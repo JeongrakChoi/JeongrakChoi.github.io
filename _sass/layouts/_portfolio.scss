@@ -58,6 +58,7 @@
     @extend %page-padding;
     margin-bottom: 55px;
     margin-top: 55px;
+    justify-content: end;
     .title {
       margin-top: 15px;
       color: $theme-dark;
