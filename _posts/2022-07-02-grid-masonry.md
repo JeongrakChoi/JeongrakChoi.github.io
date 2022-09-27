@@ -47,6 +47,8 @@ comments : true
 </div>
 {% endhighlight html %}
 
+<br>
+
 ### CSS
 {% highlight css %}
 .masonry-container {
@@ -74,6 +76,8 @@ comments : true
     }
 }
 {% endhighlight %}
+
+<br>
 
 ### Javascript
 {% highlight javascript %}
