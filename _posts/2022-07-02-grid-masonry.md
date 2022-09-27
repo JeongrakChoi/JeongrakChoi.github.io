@@ -34,6 +34,7 @@ comments : true
 자식 요소의 높이만 감지해 레이아웃을 만듬으로  
 기존 방식보다, 브라우저 리사이징 시 발생하는 메모리 누수를 최소화  
 
+### HTML
 {% highlight html %}
 <div class="masonry-container">
     <div class="masonry-item">
@@ -46,6 +47,7 @@ comments : true
 </div>
 {% endhighlight html %}
 
+### CSS
 {% highlight css %}
 .masonry-container {
     --gap: 10px;
@@ -73,6 +75,7 @@ comments : true
 }
 {% endhighlight %}
 
+### Javascript
 {% highlight javascript %}
 function masonryLayout() {
     const masonryContainerStyle = getComputedStyle(
