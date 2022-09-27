@@ -17,25 +17,25 @@
     // column-count: 3;
     // -webkit-column-count: 3;
     // -moz-column-count: 3;
-    --gap: 10px;
+    --gap: 20px;
 
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: var(--gap);
-    grid-auto-rows: 10px;
+    grid-auto-rows: 20px;
     @media (max-width: 1200px) {
-      column-count: 2;
-      -webkit-column-count: 2;
-      -moz-column-count: 2;
+      // column-count: 2;
+      // -webkit-column-count: 2;
+      // -moz-column-count: 2;
     }
     @media (max-width: 576px) {
-      column-count: 1;
-      -webkit-column-count: 1;
-      -moz-column-count: 1;
+      // column-count: 1;
+      // -webkit-column-count: 1;
+      // -moz-column-count: 1;
     }
     .card-wrapper {
-      padding: 8px 10px;
-      margin: 10px auto;
+      // padding: 8px 10px;
+      // margin: 10px auto;
       display: inline-block;
       width: 100%;
       .card {
