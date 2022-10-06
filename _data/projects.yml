@@ -11,7 +11,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://square.amorepacific.com/web/main.do
     image : "newssquare01.jpg" # path: assets/project/
     date : 2021.02 - 2021.04
     title : 뉴스스퀘어
@@ -21,7 +21,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://www.innisfree.com/hk/en/main/index.do
     image : "innisfree01.jpg" # path: assets/project/
     date : 2019.09 - 2021.02
     title : 이니스프리 글로벌
@@ -31,7 +31,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://mediheal.com/kr
     image : "mediheal01.jpg" # path: assets/project/
     date : 2019.01 - 2019.08
     title : 메디힐
@@ -41,7 +41,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://www.genesis.com/kr/ko/main.html
     image : "genesis01.jpg" # path: assets/project/
     date : 2018.06 - 2018.12
     title : 제네시스
@@ -71,7 +71,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://www.sivillage.com/jaju/main/initMain.siv
     image : "jaju01.jpg" # path: assets/project/
     date : 2016.02 - 2017.01
     title : 신세계 JAJU
@@ -81,7 +81,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://www.nike.com/kr/
     image : "nike01.jpg" # path: assets/project/
     date : 2015.12 - 2016.02
     title : 나이키 코리아
@@ -134,7 +134,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
+    url :  https://dive.hyundaicard.com/web/understage/spaceMain.hdc
     image : "understage01.jpg" # path: assets/project/
     date : 2015.06 - 2015.10
     title : 현대카드 언더스테이지
