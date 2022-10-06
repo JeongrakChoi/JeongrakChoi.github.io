@@ -1,7 +1,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
+    url : https://www.innisfree.com.tw/
     image : "inn_tw01.png" # path: assets/project/
     date : 2022.01 - 2022.04
     title : 이니스프리 대만 쇼핑몰
