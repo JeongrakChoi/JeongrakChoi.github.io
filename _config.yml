@@ -1,43 +1,43 @@
 # Site Settings
 baseurl: ""
-url : "https://jeongrakchoi.github.io"
+url: "https://jeongrakchoi.github.io"
 
 # Blog Settings
-theme_settings :
-  title : Jeongrak's Devlog
-  favicon : assets/favicon.ico
+theme_settings:
+  title: Jeongrak's Devlog
+  favicon: assets/favicon.ico
 
   # Profile Settings
-  profile :
-    image : assets/img/profile.jpg
-    username : Jeongrak Choi
-    description : 웹 퍼블리셔 최정락입니다.<br>웹 표준과 웹 접근성을 준수하며, 의미론적이며 컴포넌트 단위의 구조적인 코드를 생산하는 것을 지향합니다.
-    experience :
-      - start : 2013-12
-        end : 2015-06
-        experience : (주)포뎁스(퍼블리싱 / 주임)
-      - start : 2015-06
-        end : 2022-06
-        experience : (주)아이뱅크 (퍼블리싱 / 팀장)
-      - start : 2022-07
-        end : 
-        experience : (주)한글과컴퓨터
-    skills :
-      - skill : HTML5 & CSS3(SASS)
-        value : 95  # Percent value
-      - skill : Javascript & jQuery
-        value : 85  # Percent value
-      - skill : SEO
-        value : 85  # Percent value
-      - skill : React
-        value : 70  # Percent value
-      - skill : Vue
-        value : 70  # Percent value
+  profile:
+    image: assets/img/profile.jpg
+    username: Jeongrak Choi
+    description: 웹 퍼블리셔 최정락입니다.<br>웹 표준과 웹 접근성을 준수하며, 의미론적이며 컴포넌트 단위의 구조적인 코드를 생산하는 것을 지향합니다.
+    experience:
+      - start: 2013-12
+        end: 2015-06
+        experience: (주)포뎁스(퍼블리싱 / 주임)
+      - start: 2015-06
+        end: 2022-06
+        experience: (주)아이뱅크 (퍼블리싱 / 팀장)
+      - start: 2022-07
+        end:
+        experience: (주)한글과컴퓨터
+    skills:
+      - skill: HTML5 & CSS3(SASS)
+        value: 95 # Percent value
+      - skill: Javascript & jQuery
+        value: 85 # Percent value
+      - skill: SEO
+        value: 85 # Percent value
+      - skill: React
+        value: 70 # Percent value
+      - skill: Vue
+        value: 70 # Percent value
 
   # Icons
-  icons :
-    email:  jrchoi0123@naver.com
-    linkedin:  # Full URL
+  icons:
+    email: jrchoi0123@naver.com
+    linkedin: # Full URL
     github: jeongrakchoi
     gitlab:
     bitbucket:
@@ -48,10 +48,10 @@ theme_settings :
     instagram: jrchoi0123
 
   # Disqus
-  disqus_shortname : jeongrakchoi-github-io
+  disqus_shortname: jeongrakchoi-github-io
 
 # Pagination
-paginate: 5
+paginate: 7
 paginate_path: "blog/page:num"
 
 # Build Ssttings
