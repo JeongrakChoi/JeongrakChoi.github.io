@@ -15,13 +15,13 @@ theme_settings:
     experience:
       - start: 2013-12
         end: 2015-06
-        experience: (주)포뎁스(퍼블리싱 / 주임)
+        experience: (주)포뎁스(UI개발 / 주임)
       - start: 2015-06
         end: 2022-06
-        experience: (주)아이뱅크 (퍼블리싱 / 팀장)
+        experience: (주)아이뱅크 (UI개발 / 팀장)
       - start: 2022-07
         end:
-        experience: (주)한글과컴퓨터
+        experience: (주)한글과컴퓨터 (UI개발)
     skills:
       - skill: HTML5 & CSS3(SASS)
         value: 95 # Percent value
