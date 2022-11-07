@@ -27,9 +27,7 @@ theme_settings:
         value: 95 # Percent value
       - skill: Javascript & jQuery
         value: 85 # Percent value
-      - skill: React
-        value: 70 # Percent value
-      - skill: Vue
+      - skill: React & Vue
         value: 70 # Percent value
       - skill: SEO
         value: 85 # Percent value
