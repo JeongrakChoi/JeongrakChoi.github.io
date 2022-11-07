@@ -32,7 +32,7 @@ theme_settings:
       - skill: Vue
         value: 70 # Percent value
       - skill: SEO
-      value: 85 # Percent value
+        value: 85 # Percent value
 
   # Icons
   icons:
