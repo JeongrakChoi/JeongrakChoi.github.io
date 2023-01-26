@@ -22,7 +22,7 @@ This is my portfolio and blog site.
    git clone https://github.com/naye0ng/Grape-Theme.git
    ```
 
-2. Install Jekyll 
+2. Install Jekyll
 
    ```
    gem install jekyll
@@ -45,4 +45,3 @@ This is my portfolio and blog site.
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
