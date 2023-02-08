@@ -1,291 +1,291 @@
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://www.innisfree.com.tw/
-    image : "inn_tw01.png" # path: assets/project/
-    date : 2022.01 - 2022.04
-    title : 이니스프리 대만 쇼핑몰
-    summary : 퍼블리싱(Web + Mobile)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://www.innisfree.com.tw/
+    image: "inn_tw01.png" # path: assets/project/
+    date: 2022.01 - 2022.04
+    title: 이니스프리 대만 쇼핑몰
+    summary: 퍼블리싱(Web + Mobile)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://square.amorepacific.com/web/main.do
-    image : "newssquare01.jpg" # path: assets/project/
-    date : 2021.02 - 2021.04
-    title : 뉴스스퀘어
-    summary : 퍼블리싱(Responsive Web)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://square.amorepacific.com/web/main.do
+    image: "newssquare01.jpg" # path: assets/project/
+    date: 2021.02 - 2021.04
+    title: 아모레퍼시픽 뉴스스퀘어
+    summary: 퍼블리싱(Responsive Web)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://www.innisfree.com/hk/en/main/index.do
-    image : "innisfree01.jpg" # path: assets/project/
-    date : 2019.09 - 2021.02
-    title : 이니스프리 글로벌
-    summary : 퍼블리싱(Responsive Web)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://www.innisfree.com/hk/en/main/index.do
+    image: "innisfree01.jpg" # path: assets/project/
+    date: 2019.09 - 2021.02
+    title: 이니스프리 글로벌
+    summary: 퍼블리싱(Responsive Web)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://mediheal.com/kr
-    image : "mediheal01.jpg" # path: assets/project/
-    date : 2019.01 - 2019.08
-    title : 메디힐
-    summary : 퍼블리싱(Responsive Web)
-    description : 반응형 웹 브랜드 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://mediheal.com/kr
+    image: "mediheal01.jpg" # path: assets/project/
+    date: 2019.01 - 2019.08
+    title: 메디힐
+    summary: 퍼블리싱(Responsive Web)
+    description: 반응형 웹 브랜드 사이트 신규 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://www.genesis.com/kr/ko/main.html
-    image : "genesis01.jpg" # path: assets/project/
-    date : 2018.06 - 2018.12
-    title : 제네시스
-    summary : 퍼블리싱(Responsive Web)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://www.genesis.com/kr/ko/main.html
+    image: "genesis01.jpg" # path: assets/project/
+    date: 2018.06 - 2018.12
+    title: 현대 제네시스
+    summary: 퍼블리싱(Responsive Web)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
-    image : "mamonde01.jpg" # path: assets/project/
-    date : 2018.01 - 2018.05
-    title : 마몽드 글로벌
-    summary : 퍼블리싱(Responsive Web)
-    description : 반응형 웹 쇼핑몰 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "mamonde01.jpg" # path: assets/project/
+    date: 2018.01 - 2018.05
+    title: 마몽드 글로벌
+    summary: 퍼블리싱(Responsive Web)
+    description: 반응형 웹 쇼핑몰 사이트 신규 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
-    image : "worldwide01.jpg" # path: assets/project/
-    date : 2017.02 - 2017.12
-    title : 현대 월드와이드
-    summary : 퍼블리싱(Responsive Web)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "worldwide01.jpg" # path: assets/project/
+    date: 2017.02 - 2017.12
+    title: 현대 월드와이드
+    summary: 퍼블리싱(Responsive Web)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://www.sivillage.com/jaju/main/initMain.siv
-    image : "jaju01.jpg" # path: assets/project/
-    date : 2016.02 - 2017.01
-    title : 신세계 JAJU
-    summary : 퍼블리싱(Web + Mobile)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://www.sivillage.com/jaju/main/initMain.siv
+    image: "jaju01.jpg" # path: assets/project/
+    date: 2016.02 - 2017.01
+    title: 신세계 JAJU
+    summary: 퍼블리싱(Web + Mobile)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://www.nike.com/kr/
-    image : "nike01.jpg" # path: assets/project/
-    date : 2015.12 - 2016.02
-    title : 나이키 코리아
-    summary : 퍼블리싱(Web + Mobile)
-    description : 메인 페이지 + 서브 페이지 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://www.nike.com/kr/
+    image: "nike01.jpg" # path: assets/project/
+    date: 2015.12 - 2016.02
+    title: 나이키 코리아
+    summary: 퍼블리싱(Web + Mobile)
+    description: 메인 페이지 + 서브 페이지 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "tabikatsu01.jpg" # path: assets/project/
-    date : 2015.12 - 2016.01
-    title : tabikatsu
-    summary : 퍼블리싱(Responsive Web)
-    description : 일본 스키장 예약 시스템 반응형 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "tabikatsu01.jpg" # path: assets/project/
+    date: 2015.12 - 2016.01
+    title: tabikatsu
+    summary: 퍼블리싱(Responsive Web)
+    description: 일본 스키장 예약 시스템 반응형 사이트 신규 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : # Full URL
-    image : "kia01.gif" # path: assets/project/
-    date : 2015.11 - 2015.12
-    title : 기아 뉴 스포티지 위대한 도전
-    summary : 퍼블리싱(Web)
-    description : 기아 뉴 스포티지 위대한 도전 이벤트 (jQuery 애니메이션 작업)
-    contents :
-      - title : 신차 발매 이벤트 페이지
-        description : <li>jQuery UI Easing 활용</li>
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "kia01.gif" # path: assets/project/
+    date: 2015.11 - 2015.12
+    title: 기아 뉴 스포티지 위대한 도전
+    summary: 퍼블리싱(Web)
+    description: 기아 뉴 스포티지 위대한 도전 이벤트 (jQuery 애니메이션 작업)
+    contents:
+      - title: 신차 발매 이벤트 페이지
+        description: <li>jQuery UI Easing 활용</li>
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "hystyle01.jpg" # path: assets/project/
-    date : 2015.10 - 2015.11
-    title : hyStyle
-    summary : 퍼블리싱(Web + Mobile)
-    description : 웹에이전시 기업 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "hystyle01.jpg" # path: assets/project/
+    date: 2015.10 - 2015.11
+    title: hyStyle
+    summary: 퍼블리싱(Web + Mobile)
+    description: 웹에이전시 기업 사이트 신규 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "bucketfeet01.jpg" # path: assets/project/
-    date : 2015.08 - 2015.10
-    title : bucketfeet
-    summary : 퍼블리싱(Responsive Web)
-    description : bucketfeet 반응형 쇼핑몰 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "bucketfeet01.jpg" # path: assets/project/
+    date: 2015.08 - 2015.10
+    title: bucketfeet
+    summary: 퍼블리싱(Responsive Web)
+    description: bucketfeet 반응형 쇼핑몰 사이트 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://dive.hyundaicard.com/web/understage/spaceMain.hdc
-    image : "understage01.jpg" # path: assets/project/
-    date : 2015.06 - 2015.10
-    title : 현대카드 언더스테이지
-    summary : 퍼블리싱(Web + Mobile)
-    description : 부분 리뉴얼 및 운영
-    contents :
-        - title : Mobile
-          image : understage02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://dive.hyundaicard.com/web/understage/spaceMain.hdc
+    image: "understage01.jpg" # path: assets/project/
+    date: 2015.06 - 2015.10
+    title: 현대카드 언더스테이지
+    summary: 퍼블리싱(Web + Mobile)
+    description: 부분 리뉴얼 및 운영
+    contents:
+      - title: Mobile
+        image: understage02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "fta01.jpg" # path: assets/project/
-    date : 2015.05 - 2015.06
-    title : FTA 농업지원센터
-    summary : 퍼블리싱(Responsive Web)
-    description : 공공기관 반응형 사이트 신규 제작
-    contents :
-        - title : Responsive Web
-          image : fta02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "fta01.jpg" # path: assets/project/
+    date: 2015.05 - 2015.06
+    title: FTA 농업지원센터
+    summary: 퍼블리싱(Responsive Web)
+    description: 공공기관 반응형 사이트 신규 제작
+    contents:
+      - title: Responsive Web
+        image: fta02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "os01.jpg" # path: assets/project/
-    date : 2015.04 - 2015.05
-    title : 온라인 스크리닝
-    summary : 퍼블리싱(Responsive Web)
-    description : 공공기관 반응형 사이트 신규 제작
-    contents :
-        - title : Responsive Web
-          image : os02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "os01.jpg" # path: assets/project/
+    date: 2015.04 - 2015.05
+    title: 온라인 스크리닝
+    summary: 퍼블리싱(Responsive Web)
+    description: 공공기관 반응형 사이트 신규 제작
+    contents:
+      - title: Responsive Web
+        image: os02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "kobiz01.jpg" # path: assets/project/
-    date : 2015.02 - 2015.04
-    title : KoBiz
-    summary : 퍼블리싱(Web + Mobile)
-    description : 공공기관 반응형 사이트 신규 제작
-    contents :
-        - title : Mobile
-          image : kobiz02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "kobiz01.jpg" # path: assets/project/
+    date: 2015.02 - 2015.04
+    title: KoBiz
+    summary: 퍼블리싱(Web + Mobile)
+    description: 공공기관 반응형 사이트 신규 제작
+    contents:
+      - title: Mobile
+        image: kobiz02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "4depth01.jpg" # path: assets/project/
-    date : 2015.02 - 2015.04
-    title : (주)포뎁스
-    summary : 퍼블리싱(Responsive Web)
-    description : 기업 홈페이지 반응형 신규 제작, 가로 UI, isotope.js 레이아웃 적용
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "4depth01.jpg" # path: assets/project/
+    date: 2015.02 - 2015.04
+    title: (주)포뎁스
+    summary: 퍼블리싱(Responsive Web)
+    description: 기업 홈페이지 반응형 신규 제작, 가로 UI, isotope.js 레이아웃 적용
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "privacy01.jpg" # path: assets/project/
-    date : 2015.01 - 2015.02
-    title : 개인정보보호 종합포털
-    summary : 퍼블리싱(Web + Mobile)
-    description : 공공기관 사이트 신규 제작
-    contents :
-        - title : Mobile
-          image : privacy02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "privacy01.jpg" # path: assets/project/
+    date: 2015.01 - 2015.02
+    title: 개인정보보호 종합포털
+    summary: 퍼블리싱(Web + Mobile)
+    description: 공공기관 사이트 신규 제작
+    contents:
+      - title: Mobile
+        image: privacy02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "krnic01.jpg" # path: assets/project/
-    date : 2015.01 - 2015.02
-    title : KRNIC 인터넷 주소자원
-    summary : 퍼블리싱(Web)
-    description : 공공기관 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "krnic01.jpg" # path: assets/project/
+    date: 2015.01 - 2015.02
+    title: KRNIC 인터넷 주소자원
+    summary: 퍼블리싱(Web)
+    description: 공공기관 사이트 신규 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "cknat01.jpg" # path: assets/project/
-    date : 2014.10 - 2015.01
-    title : 한·중 연구소 센터
-    summary : 퍼블리싱(Web)
-    description : 공공기관 사이트 신규 제작
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "cknat01.jpg" # path: assets/project/
+    date: 2014.10 - 2015.01
+    title: 한·중 연구소 센터
+    summary: 퍼블리싱(Web)
+    description: 공공기관 사이트 신규 제작
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "seoul01.jpg" # path: assets/project/
-    date : 2014.08 - 2014.10
-    title : 서울시 지식공유시스템
-    summary : 퍼블리싱(Web)
-    description :  부분 리뉴얼 및 운영
-    contents :
-        - title : Web
-          image : seoul02.jpg
-          description : <li>IE7~11 크로스 브라우징</li>
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "seoul01.jpg" # path: assets/project/
+    date: 2014.08 - 2014.10
+    title: 서울시 지식공유시스템
+    summary: 퍼블리싱(Web)
+    description: 부분 리뉴얼 및 운영
+    contents:
+      - title: Web
+        image: seoul02.jpg
+        description: <li>IE7~11 크로스 브라우징</li>
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "conex01.jpg" # path: assets/project/
-    date : 2014.06 - 2014.08
-    title : CONEX 방송통신정보시스템
-    summary : 퍼블리싱(Web + Mobile)
-    description :  공공기관 사이트 신규 제작
-    contents :
-        - title : Mobile
-          image : conex02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "conex01.jpg" # path: assets/project/
+    date: 2014.06 - 2014.08
+    title: CONEX 방송통신정보시스템
+    summary: 퍼블리싱(Web + Mobile)
+    description: 공공기관 사이트 신규 제작
+    contents:
+      - title: Mobile
+        image: conex02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "unli01.jpg" # path: assets/project/
-    date : 2014.05 - 2014.06
-    title : 인터넷 윤리문화
-    summary : 퍼블리싱(Web)
-    description :  부분 리뉴얼 및 운영
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "unli01.jpg" # path: assets/project/
+    date: 2014.05 - 2014.06
+    title: 인터넷 윤리문화
+    summary: 퍼블리싱(Web)
+    description: 부분 리뉴얼 및 운영
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "krei01.jpg" # path: assets/project/
-    date : 2014.03 - 2014.05
-    title : KREI 농업관측센터
-    summary : 퍼블리싱(Web + Mobile)
-    description :  부분 리뉴얼 및 운영
-    contents :
-        - title : Mobile
-          image : krei02.jpg
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "krei01.jpg" # path: assets/project/
+    date: 2014.03 - 2014.05
+    title: KREI 농업관측센터
+    summary: 퍼블리싱(Web + Mobile)
+    description: 부분 리뉴얼 및 운영
+    contents:
+      - title: Mobile
+        image: krei02.jpg
 
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : "miller01.jpg" # path: assets/project/
-    date : 2014.01 - 2014.03
-    title : 사브 밀러 CRM 시스템
-    summary : 퍼블리싱(Web + Mobile)
-    description : 차트 및 통계 API 연동한 웹 기반 시스템 퍼블리싱
-    contents :
-        - title : Web
-          image : miller02.jpg
-          description : <li>iScroll 플러그인 도입</li>
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: # Full URL
+    image: "miller01.jpg" # path: assets/project/
+    date: 2014.01 - 2014.03
+    title: 사브 밀러 CRM 시스템
+    summary: 퍼블리싱(Web + Mobile)
+    description: 차트 및 통계 API 연동한 웹 기반 시스템 퍼블리싱
+    contents:
+      - title: Web
+        image: miller02.jpg
+        description: <li>iScroll 플러그인 도입</li>
