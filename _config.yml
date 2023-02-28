@@ -23,12 +23,12 @@ theme_settings:
         end:
         experience: (주)한글과컴퓨터 (UI개발)
     skills:
-      - skill: HTML5 & CSS3(SASS)
+      - skill: HTML & CSS(SASS, Module CSS, CSS-IN-JS)
         value: 95 # Percent value
       - skill: Javascript & jQuery
         value: 85 # Percent value
       - skill: React & Vue
-        value: 70 # Percent value
+        value: 80 # Percent value
       - skill: SEO
         value: 85 # Percent value
 
