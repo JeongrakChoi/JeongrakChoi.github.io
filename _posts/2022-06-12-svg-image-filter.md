@@ -18,8 +18,8 @@ img{filter:invert(16%) sepia(89%) saturate(6054%) hue-rotate(358deg) brightness(
 &lt;img&gt; 태그를 사용해 아이콘을 표현하는 경우 filter 속성으로 색상 활용
 
 기본적으로 svg 형태의 이미지 프로토 타입을  
-검정색으로 받거나, 정제해서 사용할 경우 활용  
+검정색으로 받아, 정제해서 사용할 경우 활용  
 
-아래의 컨버터에서 쉽게 활용 가능  
+아래의 컨버터로 활용
 <br>
 <https://isotropic.co/tool/hex-color-to-css-filter/>
