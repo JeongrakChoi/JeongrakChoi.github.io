@@ -7,9 +7,10 @@
     
     #aside{
         display:block;
-        max-width:100%;
-        flex:auto;
         @media (max-width: 991px) {
+          max-width:100%;
+          flex:auto;
+
            #tag-wrap, #proj-wrap{
             display:none;
            }
