@@ -11,6 +11,16 @@
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    url: https://github.com/JeongrakChoi/react-ui-components
+    image: "ui-components01.png" # path: assets/project/
+    date: 
+    title: React UI Components
+    summary: UI 개발 / 퍼블리싱
+    description: React + Typescript UI Components
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
     url: https://www.innisfree.com.tw/
     image: "inn_tw01.png" # path: assets/project/
     date: 2022.01 - 2022.04
