@@ -1,6 +1,8 @@
 #home {
-    > .row{
-      justify-content:center;
+    @media (max-width: 991px) {
+      > .row{
+        justify-content:center;
+      }
     }
     
     #aside{
