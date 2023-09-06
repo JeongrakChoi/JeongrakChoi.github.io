@@ -6,7 +6,7 @@
     date: 2022.07 - 2023.01
     title: Genie K
     summary: UI 개발 / 퍼블리싱
-    description: Ionic + React 기반 한국어 교육 하이브리드 앱 (참여도:50%)
+    description: 한국어 교육 하이브리드 앱 / Ionic + React (참여도:50%)
 
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
