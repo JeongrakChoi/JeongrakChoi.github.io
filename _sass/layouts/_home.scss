@@ -5,8 +5,8 @@
     
     #aside{
         display:block;
-        max-width:66.6666666667%;
-        flex:0 0 66.6666666667%;
+        max-width:100%;
+        flex:auto;
         @media (max-width: 991px) {
            #tag-wrap, #proj-wrap{
             display:none;
