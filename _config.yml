@@ -27,10 +27,10 @@ theme_settings:
         value: 100 # Percent value
       - skill: Javascript & jQuery
         value: 100 # Percent value
-      - skill: React
-        value: 80 # Percent value
+      - skill: React & Next.js
+        value: 85 # Percent value
       - skill: SEO
-        value: 100 # Percent value
+        value: 95 # Percent value
 
   # Icons
   icons:
