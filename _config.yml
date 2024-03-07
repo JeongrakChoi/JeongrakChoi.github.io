@@ -13,15 +13,16 @@ theme_settings:
     username: Jeongrak Choi
     description: 웹 퍼블리셔 최정락입니다.<br>웹 표준과 웹 접근성을 준수하며, 의미론적이며 컴포넌트 단위의 구조적인 코드를 생산하는 것을 지향합니다.
     experience:
-      - start: 2013-12
-        end: 2015-06
-        experience: (주)포뎁스(UI개발 / 주임)
-      - start: 2015-06
-        end: 2022-06
-        experience: (주)아이뱅크 (UI개발 / 팀장)
       - start: 2022-07
         end:
         experience: (주)한글과컴퓨터 (UI개발 / 과장)
+      - start: 2015-06
+        end: 2022-06
+        experience: (주)아이뱅크 (UI개발 / 팀장)
+      - start: 2013-12
+        end: 2015-06
+        experience: (주)포뎁스(UI개발 / 주임)
+      
     skills:
       - skill: HTML & CSS
         value: 100 # Percent value
@@ -30,7 +31,7 @@ theme_settings:
       - skill: React & Next.js
         value: 85 # Percent value
       - skill: SEO
-        value: 95 # Percent value
+        value: 90 # Percent value
 
   # Icons
   icons:
