@@ -18,7 +18,7 @@ theme_settings:
         experience: (주)한글과컴퓨터 (UI개발 / 과장)
       - start: 2015-06
         end: 2022-06
-        experience: (주)아이뱅크 (UI개발 / 팀장)
+        experience: (주)아이뱅크 디지털웍스 (UI개발 / 팀장)
       - start: 2013-12
         end: 2015-06
         experience: (주)포뎁스(UI개발 / 주임)
@@ -29,7 +29,7 @@ theme_settings:
       - skill: Javascript & jQuery
         value: 100 # Percent value
       - skill: React & Next.js
-        value: 85 # Percent value
+        value: 90 # Percent value
       - skill: SEO
         value: 90 # Percent value
 
